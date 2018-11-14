@@ -8,4 +8,5 @@ module.exports = {
 	imgStaticVirtualPath: '/down',
 	imgStaticRealPath: '/Users/swallow/Documents/erosPublish/eros-publish/server/uploads',
 	zipReturn: 'diff', // full 全量
+	downPath:"/Users/swallow/Desktop/"
 }
